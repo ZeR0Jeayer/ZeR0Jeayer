@@ -1,4 +1,5 @@
 ## Olá sou Estudante de Programação e Hacking e venho compartilhar meus estudos com vocês!
+### Hello, I'm a Programming and Hacking Student and I come to share my studies with you!
 <div align="center">
   <a href="https://github.com/ZeR0Jeayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeR0Jeayer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
