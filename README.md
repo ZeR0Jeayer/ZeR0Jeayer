@@ -14,5 +14,6 @@
   <img align="center" alt="zero-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
-  ##
+  ## 🎓[Python Basic][certificado.pdf](https://github.com/ZeR0Jeayer/ZeR0Jeayer/files/8233145/certificado.pdf)
+ 
  
