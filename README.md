@@ -16,4 +16,4 @@
   
   ## 🎓[Python Basic][certificado.pdf](https://github.com/ZeR0Jeayer/ZeR0Jeayer/files/8233145/certificado.pdf)
  
- 
+  ![trash](https://user-images.githubusercontent.com/99215787/158037813-0155d5d0-9a68-47af-8198-3d952520a520.gif)
