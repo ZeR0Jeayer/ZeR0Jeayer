@@ -13,7 +13,9 @@
   <img align="center" alt="zero-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="zero-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-  
+  <div>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </div>
   
  
   ![trash](https://user-images.githubusercontent.com/99215787/158037813-0155d5d0-9a68-47af-8198-3d952520a520.gif)
